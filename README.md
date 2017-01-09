@@ -50,7 +50,7 @@
        </div>
       </div>
 
-<footer id="pie">Desarrollado para Arquitectura de Computadores - Universidad de Cundinamarca 2016</footer> 
+<footer id="pie">GRUPO DE HIP HOP</footer> 
 </body>
     
 </html>
