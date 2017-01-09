@@ -1,6 +1,36 @@
-<A class=chlnk style="FONT-WEIGHT: bold; CURSOR: hand; 
-COLOR: #004080; FONT-FAMILY: Verdana" onclick= 
-"this.style.behavior='url(#default#homepage)'; 
-this.setHomePage('http://www.pauluk.8k.com');"> 
-<FONT face=Arial color=#000000 size=-2><U> 
-Establecer como página de inicio</U></FONT></A>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Sistemas operativos</title>
+  <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/estilos.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="icon" type="image/png" href="assets/favicon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head> 
+<body>
+  <div class="navbar-fixed">
+  <nav>
+      <div class="nav-wrapper blue darken-4">
+        <div class="">
+    <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons" style="font-size:2rem; margin-left:3rem;">menu</i></a>
+  </div>
+      <ul id="slide-out" class="side-nav">
+    <li><div class="userView">
+      <img class="background" src="assets/neuronas.jpg">
+      <a href="http://www.facebook.com/yapz96" target="_blank"><img class="circle" src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xta1/v/t1.0-9/12042830_10208196831424457_3657069567025053180_n.jpg?oh=ecd0a58af6909de8471459f12b5b6c0e&oe=583D4360&__gda__=1484684589_6b221b20a1616a310b78e47c87e2ee3d"></a>
+      <a href="#!name"><span class="white-text name">Yojan Pardo</span></a>
+      <a href="#!email"><span class="white-text email">yojan.pardo@gmail.com</span></a>
+    </div></li>
+    <div class="collection" style="border:0px;">
+    <li><a href="index.html" class="waves-effect active"><i class="material-icons">home</i>Inicio</a></li>
+    <li><div class="divider"></div></li>
+    <li><a class="waves-effect" href="instalacion.html">Instalación Windows XP</a></li>
+    <li><a class="waves-effect" href="dualboot.html">Instalación dual boot</a></li>
+    <li><a class="waves-effect" href="mainboard.html">Main board</a></li>
+    <li><a class="waves-effect collection-item active" href="archivos.html">Archivos entre sistemas</a></li>
+            <li><a class="waves-effect" href="configuracion-server.html">Configurando un server</a></li>
+    </div>  
+  </ul>
