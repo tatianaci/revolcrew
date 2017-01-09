@@ -1,0 +1,6 @@
+<A class=chlnk style="FONT-WEIGHT: bold; CURSOR: hand; 
+COLOR: #004080; FONT-FAMILY: Verdana" onclick= 
+"this.style.behavior='url(#default#homepage)'; 
+this.setHomePage('http://www.pauluk.8k.com');"> 
+<FONT face=Arial color=#000000 size=-2><U> 
+Establecer como página de inicio</U></FONT></A>
