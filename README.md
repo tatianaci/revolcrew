@@ -7,11 +7,7 @@
 <font size="200" align="left" face="Comic Sans MS, Arial, MS Sans Serif">
 REVOL CREW2</font>
 
-        
-		
-
-        <li><a href="https://www.facebook.com/TripulacionRevol/?ref=bookmarks"><img src="facebook_icono (1).png"</a></li>
  
-   
+   <a href="https://www.facebook.com/TripulacionRevol/?ref=bookmarks  " target="_blank"><img alt="siguenos en facebook" height="40" src="facebook_icono (1).png" title="siguenos en facebook" width="40" /></a>
 </BODY>
 </HTML>
