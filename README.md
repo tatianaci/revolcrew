@@ -8,6 +8,6 @@
 REVOL CREW2</font>
 
  
-   <a href="https://www.facebook.com/TripulacionRevol/?ref=bookmarks  " target="_blank"><img alt="siguenos en facebook" height="40" src="facebook_icono (1).png" title="siguenos en facebook" width="40" /></a>
+   <a href="https://www.facebook.com/TripulacionRevol/?ref=bookmarks  " target="_blank"><img alt="siguenos en facebook" height="80" src="facebook_icono (1).png" title="siguenos en facebook" width="80" /></a>
 </BODY>
 </HTML>
