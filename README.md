@@ -18,10 +18,8 @@ REVOL CREW2</font>
     </header>
     <div id="redesociales">
     <ul id="menuredes">
-        <li><a href="https://www.facebook.com/ubuntulinux/?fref=ts"><img src="assets/iconos/facebook.png"</a></li>
-        <li><a href="https://plus.google.com/communities/107299007624972266094"><img src="assets/iconos/google-plus.png"</a></li>
-        <li><a href="https://www.instagram.com/ubuntu_os/"><img src="assets/iconos/instagram.png"</a></li>
-        <li><a href="https://twitter.com/ubuntu?lang=es"><img src="assets/iconos/twitter.png"</a></li>
+        <li><a href="https://www.facebook.com/TripulacionRevol/?ref=bookmarks"><img src="facebook_icono (1).png"</a></li>
+ 
     </ul>
        </div>
 </BODY>
